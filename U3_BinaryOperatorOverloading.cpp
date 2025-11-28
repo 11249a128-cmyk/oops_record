@@ -1,11 +1,10 @@
 Aim:
-   // To demonstrate the use of friend functions across two classes //
+   // To demonstrate binary operator overloading for arithmetic operation //
 
-Algorithm: 
-        Step 1 : Create classes Account and Loan.
-        Step 2 : Declare a friend function checkEligibility() in both classes.
-        Step 3 : Input balance and loan amount.
-        Step 4 : Use the friend function to check eligibility and display result.
+Algorithm:
+         Step 1 : Create class Complex with real and imaginary parts.
+         Step 2 : Overload + operator to add two complex numbers.
+         Step 3 : Display the result.
 
 Program :
         #include <iostream>
